@@ -3,4 +3,3 @@ venv
 .vscode
 db.sqlite3
 .env
-postgres 4
